@@ -1,0 +1,3 @@
+This was my coursework for the second semester at the university. The requirements were to create some type of program that would consist of things we learned during that semester.
+
+This cmd game was inspired by the popular smartphone game Geometry-dash. There are two options: play, or let the computer play and show you how to score 25/25. In this game, obstacles generate randomly every time you play. There are 5 levels, each level consists of 5 obstacles. After beating a level, the pace increases, so it gets progressively harder.
